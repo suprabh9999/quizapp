@@ -1,0 +1,12 @@
+.contentArea{
+    display: flex;
+}
+
+.leftNav{
+    flex: 0 0 18%;
+}
+
+.mainContent{
+    flex: 1; /* instead we can put as value 1 */
+    margin-left: 10px;
+}

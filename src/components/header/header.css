@@ -1,0 +1,16 @@
+.headerContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.flexItem{
+    display: inline;
+    background-color: white;
+    padding: 10px;
+    text-align: center; 
+    border-radius: 10px;
+    cursor: pointer;
+}

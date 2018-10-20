@@ -1,0 +1,14 @@
+.leftNavCont{
+    color:white;
+    margin: 0;
+    background-color: rgb(205, 50, 50);
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    border-radius: 20px;
+    justify-content: space-evenly;
+}
+.topic{
+    text-decoration: none;
+    list-style: none;
+}

@@ -1,0 +1,596 @@
+{
+    "reactjs" : {
+        "state" : {
+            "questions" : [
+                {
+                    "ques" : "What is state ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "lifecycle" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "prop" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "functional" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "container" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "async" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "wcag" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        }
+    },
+    "css" : {
+        "boxmodel" : {
+            "questions" : [
+                {
+                    "ques" : "What is state ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "position" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "animation" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "grid" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "mediaquery" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "flex" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        }
+    },
+    "java" : {
+        "inheritance" : {
+            "questions" : [
+                {
+                    "ques" : "What is state ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "polymorphism" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "multithreading" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "wrapper" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "abstraction" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "lambda" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "encapsulation" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        }
+    },
+    "js" : {
+        "scopeandclosure" : {
+            "questions" : [
+                {
+                    "ques" : "What is state ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "arrowfunction" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "promise" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "async" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "typesandgrammer" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "object" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "polyfills" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        }
+    },
+    "html" : {
+        "semantictag" : {
+            "questions" : [
+                {
+                    "ques" : "What is state ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "versions" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        }
+    },
+    "nodejs" : {
+        "event" : {
+            "questions" : [
+                {
+                    "ques" : "What is state ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "eventemitter" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "glib" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "filesystem" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "streams" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "bytes" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        }
+    },
+    "springboot" : {
+        "dependencyinjection" : {
+            "questions" : [
+                {
+                    "ques" : "What is state ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "logging" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "beancreation" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "annotation" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "configuration" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        }
+    },
+    "mysql" : {
+        "crud" : {
+            "questions" : [
+                {
+                    "ques" : "What is state ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "querywritting" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "storedprocedures" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        }
+    },
+    "datastructures" : {
+        "stack" : {
+            "questions" : [
+                {
+                    "ques" : "What is state ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "queue" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "linkedlist" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "trees" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        },
+        "graphs" : {
+            "questions" : [
+                {
+                    "ques" : "What are LifeCycle methods ?",
+                    "options" : ["A","B","C","D"]
+                },
+                {
+                    "ques" : "What is immutability ?",
+                    "options" : ["X","V","R","T"]
+                }
+            ]
+        }
+    }
+}

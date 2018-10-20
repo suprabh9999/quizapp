@@ -1,0 +1,87 @@
+{
+    "reactjs" : {
+        "topics" : [
+            "lifecycle",
+            "state",
+            "prop",
+            "functional",
+            "container",
+            "async",
+            "wcag"
+        ]
+    },
+    "css" : {
+        "topics" : [
+            "box model",
+            "position",
+            "animation",
+            "grid",
+            "media query",
+            "flex"
+        ]
+    },
+    "java" : {
+        "topics" : [
+            "inheritance",
+            "polymorphism",
+            "multithreading",
+            "wrapper",
+            "abstraction",
+            "lambda",
+            "encapsulation"
+        ]
+    },
+    "js" : {
+        "topics" : [
+            "scope and closure",
+            "arrow function",
+            "promise",
+            "async",
+            "types and grammer",
+            "object",
+            "polyfills"
+        ]
+    },
+    "html" : {
+        "topics" : [
+            "semantic tag",
+            "versions"
+        ]
+    },
+    "nodejs" : {
+        "topics" : [
+            "event",
+            "event emitter",
+            "glib",
+            "file system",
+            "streams",
+            "bytes"
+        ]
+    },
+    "springboot" : {
+        "topics" : [
+            "dependency injection",
+            "logging",
+            "bean creation",
+            "annotation",
+            "configuration"
+        ]
+    },
+    "mysql" : {
+        "topics" : [
+            "crud",
+            "query writting",
+            "stored procedures"
+        ]
+    },
+    "datastructures" : {
+        "topics" : [
+            "stack",
+            "queue",
+            "linked list",
+            "trees",
+            "graphs"
+        ]
+    }
+    
+}
